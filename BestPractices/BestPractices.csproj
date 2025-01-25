@@ -117,7 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Identity.Client">
-      <Version>4.52.0</Version>
+      <Version>4.60.4</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Identity.Client.Desktop">
       <Version>4.52.0</Version>
